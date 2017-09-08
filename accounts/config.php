@@ -1,8 +1,8 @@
 <?
 		$Mysql_Host = "localhost";
-		$Mysql_User = "u0114943_default";
-		$Mysql_DB = "u0114943_default";
-		$Mysql_pass = "SSim6SSQ";
+		$Mysql_User = "H31270";
+		$Mysql_DB = "EVEBASE31270";
+		$Mysql_pass = "123123123";
 		
 		$connect = @mysql_connect($Mysql_Host,$Mysql_User,$Mysql_pass);
 		if(!$connect)
